@@ -1,0 +1,6 @@
+Tool: built-in image_gen (style-transfer)
+Source: images/official/0361579064-E1602057709151.jpg
+Style reference: site-0906/assets/hero-courtyard.png
+Output: assets/hero-blue-house.png in site-無印-origin, site-0906, site-0906-1.
+
+Use case: style-transfer. Create a wide 16:9 website hero architectural visualization. Image 1 is the subject: preserve its recognizable two-story modular house geometry, blue horizontal siding, white window frames and balcony rails, twin balcony awnings, and wooden slat courtyard fence. Image 2 is the style and composition reference: match its quiet minimalist architectural photography/render, pale cloudy sky, neutral concrete courtyard, desaturated restrained materials, soft diffuse light, clean uncluttered surroundings. Remove neighboring houses, utility wires, external clutter. Place the entire blue house predominantly on the right with generous empty pale sky and courtyard on the left for website headline overlay, ample margin around roof and fence. Keep blue siding muted blue and wood natural lightly weathered. Photorealistic, refined architectural visualization, straight verticals. No text, logos, watermark or people.
