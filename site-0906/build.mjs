@@ -47,6 +47,8 @@ pages.contact=shell('contact','申請場勘',`${pageHead('SITE CONSULTATION','�
 pages.about=shell('about','關於我們',`${pageHead('ABOUT EASY GO','簡潔，是選擇。<br>專業，是基礎。','易立構，從使用者的日常出發，思考空間應有的樣子。')}<section class="section wrap"><div class="two-col">${photo('lounge','自然採光下的沙發與木地板起居角落')}<div><p class="eyebrow">OUR PHILOSOPHY</p><h2>把需要的留下。<br>把細節做好。</h2><p>讓設計回應生活，讓結構回應用途。從一個房間到一處居所，我們相信，清楚的溝通與完整的規劃，是好空間的開始。</p><p>簡潔的外觀、實用的配置，以及願意說清楚的細節，構成易立構的空間提案。</p></div></div></section><section class="section process-section"><div class="wrap">${title('BRAND RECORDS','關於品牌，逐步認識。')}<div class="records"><article><span class="eyebrow">01 / MILESTONES</span><h3>品牌大事紀</h3><p>品牌沿革與重要里程碑將依正式資料呈現，建立年份及各階段紀錄待補齊。</p></article><article><span class="eyebrow">02 / PATENTS</span><h3>專利與技術資料</h3><p>專利證書、證號與適用範圍待正式文件確認；目前不提供未經核實的技術認證。</p></article><article><span class="eyebrow">03 / CONTACT</span><h3>與易立構聯繫</h3><p>公司電話、地址及電子信箱待確認。您可以先下載諮詢單，整理基地與使用需求。</p>${link('contact.html','整理諮詢需求')}</article></div></div></section>${cta()}`);
 const faqs=[['規劃之前','還沒有土地，可以先了解嗎？','可以先整理用途、希望的空間大小與預算方向。具體設計及施工方案，需要配合基地條件再評估。'],['規劃之前','可以調整格局與外觀嗎？','可提出開窗、隔間、外觀與設備需求，是否適用需依結構、選定系統及基地條件確認。'],['預算與施工','組合屋價格應該怎麼比較？','將面積、材料、基礎、運輸、吊裝、水電與裝修範圍列在同一張清單，確認包含與未包含項目，再比較總體成本。'],['預算與施工','從規劃到完成需要多久？','圖說確認、材料生產、基地工程與現場條件都會影響時程，實際工期需依正式施工範圍確認。'],['場勘與服務','場勘前需要準備什麼？','建議準備基地位置、現況照片、預計用途、人數與預算方向，以及已知道路或施工限制。'],['場勘與服務','下載諮詢單就完成預約了嗎？','尚未。網站目前只在您的裝置產生諮詢單，不送出個人資料或保留預約；正式聯絡與收件資訊需待補齊。'],['照片與案例','網站照片都是已確認的完工案例嗎？','照片選自提供的官方素材，案名與用途為空間設計提案。個別地點、面積與施工資料，需依正式案例文件確認。']];
 pages.faq=shell('faq','常見問題',`${pageHead('QUESTIONS & ANSWERS','把問題，說清楚。','關於規劃、預算與場勘，先了解您關心的事。')}<section class="section wrap faq-layout"><aside><p class="eyebrow">QUICK INDEX</p>${[...new Set(faqs.map(x=>x[0]))].map((c,i)=>`<a href="#faq-${i}">${c}<span>↓</span></a>`).join('')}</aside><div>${[...new Set(faqs.map(x=>x[0]))].map((c,i)=>`<section class="faq-group" id="faq-${i}"><h2>${c}</h2>${faqs.filter(x=>x[0]===c).map(([_,q,a])=>`<details><summary>${q}<span aria-hidden="true">＋</span></summary><p>${a}</p></details>`).join('')}</section>`).join('')}</div></section>${cta()}`);
+// Preserve the maintained About page.
+pages.about = await readFile(path.join(root, 'about.html'), 'utf8');
 pages.comparison = await readFile(path.join(root, 'comparison.html'), 'utf8');
 pages.index = pages.index.replace(/(<section class="hero[^>]*>[\s\S]*?<img\b)[^>]*>/, '$1 src="assets/hero/064c6f25-f428-4624-90b1-db024db8bfd8-right.png" class="photo" alt="組合屋建築情境示意 1" width="1672" height="941" fetchpriority="high" decoding="async">');
 // A fixed image frame allows responsive composition without duplicating assets.
@@ -63,7 +65,7 @@ await writeFile(path.join(root,'dist/server/index.js'),'export default {async fe
 let checked=0;
 for(const [name,html] of Object.entries(pages)){
   for(const [,url] of html.matchAll(/(?:href|src)="([^"]+)"/g)){
-    if(/^(https?:|data:)/.test(url)) continue;
+    if(/^(https?:|data:|tel:|mailto:)/.test(url)) continue;
     const [file,fragment]=url.split('#');
     const target=path.join(root,file||`${name}.html`);await access(target);
     if(fragment && !(await readFile(target,'utf8')).includes(`id="${fragment}"`)) throw new Error(`Missing fragment ${name}: ${url}`);
