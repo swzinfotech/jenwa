@@ -1,3 +1,36 @@
+// Progressive enhancement: all comparison topics remain readable without JS.
+document.querySelectorAll('[data-house-explorer]').forEach(explorer => {
+  const buttons = [...explorer.querySelectorAll('[data-house-topic]')];
+  const panels = [...explorer.querySelectorAll('[data-house-panel]')];
+  const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)');
+  let transition;
+  function select(index) {
+    transition?.cancel();
+    buttons.forEach((button, i) => button.setAttribute('aria-pressed', String(i === index)));
+    panels.forEach((panel, i) => { panel.hidden = i !== index; });
+    if (!reducedMotion.matches) transition = panels[index].animate(
+      [{ opacity: 0, transform: 'translateY(10px)' }, { opacity: 1, transform: 'translateY(0)' }],
+      { duration: 280, easing: 'ease-out' }
+    );
+  }
+  buttons.forEach((button, index) => {
+    button.addEventListener('click', () => select(index));
+    button.addEventListener('keydown', event => {
+      let next;
+      if (event.key === 'ArrowRight' || event.key === 'ArrowDown') next = (index + 1) % buttons.length;
+      if (event.key === 'ArrowLeft' || event.key === 'ArrowUp') next = (index + buttons.length - 1) % buttons.length;
+      if (event.key === 'Home') next = 0;
+      if (event.key === 'End') next = buttons.length - 1;
+      if (next === undefined) return;
+      event.preventDefault();
+      buttons[next].focus();
+      select(next);
+    });
+  });
+  explorer.classList.add('is-interactive');
+  select(0);
+});
+
 const menu = document.querySelector('.menu-toggle');
 const nav = document.querySelector('.nav');
 function closeMenu() { nav.classList.remove('is-open'); menu.setAttribute('aria-expanded', 'false'); menu.textContent = '選單 ☰'; }
