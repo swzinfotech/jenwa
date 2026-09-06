@@ -7,17 +7,14 @@
 @media(max-width:390px){.form-grid{grid-template-columns:1fr}.hero h1{font-size:40px}.hero-actions{gap:15px}.hero-actions .text-link{font-size:12px;gap:12px}.principles{gap:14px}.hero-index{letter-spacing:.06em}.footer-nav{gap:14px 20px}.case-specs{grid-template-columns:1fr}.case-specs>span{display:flex;justify-content:space-between}.case-specs strong{margin:0}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{transition:none!important;animation:none!important}}
 
-/* Homepage carousel controls, shared across all three visual directions. */
+/* Hero navigation: five dots */
 .hero.has-carousel{position:relative}
-.hero-carousel-controls{position:absolute;z-index:3;bottom:76px;left:8%;display:flex;align-items:center;gap:4px;padding:4px;background:rgba(248,248,245,.94);border:1px solid #d8dbd5;color:#303b32}
-.hero-carousel-controls button{display:grid;place-items:center;min-width:44px;min-height:44px;padding:8px;border:0;background:transparent;color:inherit;font:12px Arial,sans-serif;cursor:pointer}
-.hero-carousel-controls button[aria-pressed="true"]{background:#303b32;color:#fff}
-.hero-carousel-controls button:hover{background:#dfe3dc;color:#303b32}
-.hero-carousel-controls button:focus-visible{outline:2px solid #986333;outline-offset:2px}
-.reference .hero-carousel-controls{bottom:22px;left:50%;transform:translateX(-50%)}
-.independent .hero-carousel-controls{position:static;grid-column:2;justify-self:end;margin-top:-25px}
-.hero.has-carousel img.is-blue-house{object-position:70% center}
-@media(max-width:800px){
- .hero.has-carousel .hero-carousel-controls{position:static;transform:none;order:4;align-self:center;grid-column:1;justify-self:center;margin:0 auto 20px;flex-shrink:0}
- .hero.has-carousel img.is-blue-house{object-position:80% center}
-}
+.hero-carousel-controls{display:flex;align-items:center;justify-content:center;z-index:3;color:#fff;gap:0}
+.hero-carousel-controls button{display:grid;place-items:center;width:44px;height:44px;padding:0;border:0;border-radius:50%;background:transparent;color:inherit;cursor:pointer}
+.hero-carousel-controls button:after{content:"";width:7px;height:7px;border:1px solid currentColor;border-radius:50%;opacity:.65;transition:background .2s,transform .2s,opacity .2s}
+.hero-carousel-controls button[aria-pressed="true"]:after{background:currentColor;opacity:1;transform:scale(1.25)}
+.hero-carousel-controls button:hover:after{opacity:1;transform:scale(1.25)}
+.hero-carousel-controls button:focus-visible{outline:1px solid currentColor;outline-offset:-6px}
+@media(prefers-reduced-motion:reduce){.hero-carousel-controls button:after{transition:none}}
+.reference .hero-carousel-controls{position:absolute;left:50%;bottom:58px;transform:translateX(-50%);color:#3c473d}
+@media(max-width:800px){.reference .hero .hero-carousel-controls{position:relative;left:auto;bottom:auto;transform:none;order:0;padding:4px 0;background:#f5f6f4}}
