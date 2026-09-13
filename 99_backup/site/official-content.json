@@ -1,0 +1,2216 @@
+{
+  "banners": [
+    "assets/official/14bab476c5-A1155652641724.jpg",
+    "assets/official/aed4e69340-B2169218022745.jpg",
+    "assets/official/3169425f41-C3155567036266.jpg"
+  ],
+  "history": [
+    {
+      "title": "2005 初次邂逅",
+      "text": "創辦人起初於大型船運公司擔任國貿人員，在工作中偶然發現貨櫃做為運輸以外的空間用途所帶來的經濟及便利性，自此深入研究住用貨櫃相關業務。",
+      "source": {
+        "file": "index.html",
+        "url": "https://www.jenwa.com.tw/"
+      }
+    },
+    {
+      "title": "2006 首創直銷",
+      "text": "創辦人利用船公司自有貨櫃資源及位於高雄港的地理優勢，於公司內成立直銷單位，改變既往模式，使貨櫃不必經由中間商便可直接到達消費者手中。",
+      "source": {
+        "file": "index.html",
+        "url": "https://www.jenwa.com.tw/"
+      }
+    },
+    {
+      "title": "2008 跨入生產",
+      "text": "單純買賣已無法完全滿足使用者需求，且同行代加工能力不足。 便設廠籌措六大工班 (設計、鐵工、木作、水電、泥作、運輸)，自行發落加工事宜。",
+      "source": {
+        "file": "index.html",
+        "url": "https://www.jenwa.com.tw/"
+      }
+    },
+    {
+      "title": "2010 仿冷櫃誕生",
+      "text": "傳統貨櫃屋受限於本質，悶熱且外觀不佳。 便設計將貨櫃做為結構本體，以全新發泡鋼板自外緣覆蓋之，使其具有全新外觀及隔熱效能。 因仿照冷凍貨櫃的斷熱結構，故取名「仿冷櫃」，並申請新型專利「M408598號」。 此舉在三十年不變的貨櫃屋業界投下一顆震撼彈！",
+      "source": {
+        "file": "index.html",
+        "url": "https://www.jenwa.com.tw/"
+      }
+    },
+    {
+      "title": "2012 易立構誕生",
+      "text": "仿冷櫃雖持續暢銷，隔熱效能與外觀較傳統貨櫃屋已有解決方案，但仍嫌不足，原因出自於結構依然為貨櫃本體所侷限，許多利於居住條件的改造因而滯礙難行。故捨棄貨櫃本體，再次開發以全新鋼材打造全新結構。 因具有「易於立即建構」之優勢，故取名「易立構」，英文直譯「Easy Go」，並取得新型專利字號「M431918」號。",
+      "source": {
+        "file": "index.html",
+        "url": "https://www.jenwa.com.tw/"
+      }
+    },
+    {
+      "title": "2015 輕質灌漿開發成功",
+      "text": "耗資百萬，研究特殊配比，將永久性材料「輕質混凝土」融入結構之中，取代會隨時間消耗的木質地板及鐵皮頂板，同時並可取得良好隔音隔熱效能。 以此申請新型專利「M552518」號。 是全台灣唯一將輕質混凝土成功應用在移動式屋體結構的廠商。",
+      "source": {
+        "file": "index.html",
+        "url": "https://www.jenwa.com.tw/"
+      }
+    },
+    {
+      "title": "2016 結構升等",
+      "text": "通過結構計算及防火規範，可申請建使照、辦理保存登記，躋身正式合法營造之列。",
+      "source": {
+        "file": "index.html",
+        "url": "https://www.jenwa.com.tw/"
+      }
+    },
+    {
+      "title": "2017~ 持續開發、永無止盡",
+      "text": "廣邀營造業、建築師、設計師參與生產製程。擴大規模，永遠做第一線開發！",
+      "source": {
+        "file": "index.html",
+        "url": "https://www.jenwa.com.tw/"
+      }
+    }
+  ],
+  "purchaseImages": [
+    "assets/official/77aead436a-A14.png",
+    "assets/official/59bbecf979-A14-P.png",
+    "assets/official/1b6da274b6-A15-1.png",
+    "assets/official/99c40e215c-A15-2.png",
+    "assets/official/e09b89a543-A15-3.png",
+    "assets/official/2a5e44b04d-A15-4.png",
+    "assets/official/2412326058-A15-5.png",
+    "assets/official/0db6ba3503-A15-6.png",
+    "assets/official/39e0268269-A15-7.png",
+    "assets/official/5b9a22cbf2-A15-8.png",
+    "assets/official/e0707f9515-A15-9.png"
+  ],
+  "contact": {
+    "phone": "07-783-0770",
+    "mobile": "0911-608-070",
+    "fax": "07-783-0780",
+    "taxId": "91445973",
+    "email": "container@jenwa.com.tw",
+    "address": "高雄市大寮區三隆路39巷61號",
+    "line": "https://line.me/ti/p/~@mop1712q",
+    "facebook": "https://www.facebook.com/jenwagroup/",
+    "map": "https://goo.gl/maps/WDjXHa98a2r",
+    "source": {
+      "file": "index.html",
+      "url": "https://www.jenwa.com.tw/"
+    }
+  },
+  "structure": {
+    "items": [
+      {
+        "title": "吊耳",
+        "text": "極厚熱軋中鋼產12mm中碳鋼板切割沖孔焊做而成，可承受結構本體吊重，及做為高架屋頂荷重之基礎延伸點。"
+      },
+      {
+        "title": "防水層",
+        "text": "輕質砂漿即摻入避水漿做本質防水。 表面做不織布全舖設一道、亞克力樹脂底塗二道 、彈泥中塗三道、二氧化鈦隔熱面塗二道。"
+      },
+      {
+        "title": "頂平台",
+        "text": "全平面一體成型。可供人行走、放置重物、向上堆疊、附屬加工。做為空中觀景平台、植栽綠屋頂等用途使用。"
+      },
+      {
+        "title": "頂底側樑",
+        "text": "一體成型矩型鋼管焊做而成，支撐結構不變型、不彎曲、不下陷。"
+      },
+      {
+        "title": "導水座管",
+        "text": "集中雨水做妥善引導集中排放，可設計製做雨水回收工程。"
+      },
+      {
+        "title": "佈線配管層",
+        "text": "充裕的夾層空間做妥善的佈線配管工作。"
+      },
+      {
+        "title": "主結構框",
+        "text": "採用大口徑一體成型方型鋼管裁切焊接而成。"
+      },
+      {
+        "title": "防潮柏油層",
+        "text": "有效隔離地氣、防止結構受潮、降低室內溼度。"
+      },
+      {
+        "title": "綁筋層",
+        "text": "採用線徑最粗、孔距最小之鋼筋點焊網，輔以9mm竹節鋼筋，舖設而成。"
+      },
+      {
+        "title": "砂漿層",
+        "text": "採用一號卜特蘭水泥(亞洲水泥)混合輕質發泡配比而成。 具有質輕抗熱、堅硬耐壓等永久性表現效果。"
+      },
+      {
+        "title": "佈膠層",
+        "text": "採用南寶強力膠雙面施工，較一般地板專用單面膠工法，具有黏合程度更高、完全拒水、冷縮熱脹程度低的優點。"
+      },
+      {
+        "title": "地表層",
+        "text": "常規使用2mm立體木紋塑膠地板。 具有清潔易、耗損少、質感好、造價低的優點。"
+      },
+      {
+        "title": "發泡層",
+        "text": "PU發泡覆著於鋼板背層，具有增加表面鋼板硬度、取得基本隔音隔熱效果的優點。"
+      },
+      {
+        "title": "外牆板",
+        "text": "色系眾多，可依風格做任何挑選搭配。 鍍55%鋁鋅鋼材經久耐用。 內外牆設計成各自獨立，受損需更換板材時，不會相互影響。"
+      },
+      {
+        "title": "角材層",
+        "text": "採LVL積層角料，經蒸、煮、浸、悶、凍之物理試驗過程。克服傳統木材含水含糖量高所導致的易彎曲變型及遭受蟲蛀的缺點。"
+      },
+      {
+        "title": "填充層",
+        "text": "依特別需求，可於夾層加填充防火棉、隔音毯、酚醛板、保麗龍、硬質發泡等隔音熱素材。"
+      }
+    ],
+    "images": [
+      "assets/official/932e89b383-D1765347297191.jpg"
+    ],
+    "source": {
+      "file": "paper/other_select_index_id_206_title_id_1834_group_id_71.html",
+      "url": "https://www.jenwa.com.tw/paper/other_select_index.php?id=206&title_id=1834&group_id=71"
+    }
+  },
+  "process": [
+    {
+      "title": "1. 防鏽底漆",
+      "text": "主結構鋼管使用無氣噴漆機上漆，逐次增加單層噴塗厚度， 以暗紅的底漆做為鋼材與面漆的覆著中介，達到防銹的目的。",
+      "image": "assets/official/df3e144caa-o4L1ZAS.jpg",
+      "source": {
+        "file": "paper/other_select_index_id_209_title_id_1834_group_id_71.html",
+        "url": "https://www.jenwa.com.tw/paper/other_select_index.php?id=209&title_id=1834&group_id=71"
+      }
+    },
+    {
+      "title": "2.裁剪鋼材",
+      "text": "以精密的帶鋸機取代傳統砂輪切斷機， 鋼材以精準的各種角度裁取。 精確的裁角能使鋼管間毫無誤差的接合。",
+      "image": "assets/official/9499623f2d-nWetACI.jpg",
+      "source": {
+        "file": "paper/other_select_index_id_209_title_id_1834_group_id_71.html",
+        "url": "https://www.jenwa.com.tw/paper/other_select_index.php?id=209&title_id=1834&group_id=71"
+      }
+    },
+    {
+      "title": "3.合框綁筋",
+      "text": "綁筋是為增加混凝土抗裂的能力。 上下平面框使用大量鋼筋以穩固的電焊熔接， 高密度的綁筋間距使框面倍加穩固。",
+      "image": "assets/official/552ca5cd5c-gD05yaO.jpg",
+      "source": {
+        "file": "paper/other_select_index_id_209_title_id_1834_group_id_71.html",
+        "url": "https://www.jenwa.com.tw/paper/other_select_index.php?id=209&title_id=1834&group_id=71"
+      }
+    },
+    {
+      "title": "4. 輕質灌漿",
+      "text": "以輕質發泡配比取代傳統混凝土中的砂石配比， 環保又兼具隔熱效果。。",
+      "image": "assets/official/58b8e9612e-2QWFOQo.jpg",
+      "source": {
+        "file": "paper/other_select_index_id_209_title_id_1834_group_id_71.html",
+        "url": "https://www.jenwa.com.tw/paper/other_select_index.php?id=209&title_id=1834&group_id=71"
+      }
+    },
+    {
+      "title": "5. 立柱焊接",
+      "text": "引進CO2半自動電焊機， 取代傳統電焊機對於 焊道張力、滲透力、及填補效率不足等缺點。 綿密的焊道就是結構穩固的保證。",
+      "image": "assets/official/5ed16e2d80-SRSnLoL.jpg",
+      "source": {
+        "file": "paper/other_select_index_id_209_title_id_1834_group_id_71.html",
+        "url": "https://www.jenwa.com.tw/paper/other_select_index.php?id=209&title_id=1834&group_id=71"
+      }
+    },
+    {
+      "title": "6. 防鏽塗佈",
+      "text": "底部噴塗柏油防潮，樑柱噴塗調合漆防鏽， 屋頂塗佈多道彈性塗料防滲水，全方位提高整體結構的耐久性",
+      "image": "assets/official/8220c68b9a-elvjg3T.jpg",
+      "source": {
+        "file": "paper/other_select_index_id_209_title_id_1834_group_id_71.html",
+        "url": "https://www.jenwa.com.tw/paper/other_select_index.php?id=209&title_id=1834&group_id=71"
+      }
+    },
+    {
+      "title": "7. 安裝門窗",
+      "text": "擁有各式門窗型、各種玻璃及各色粉體烤漆供給選用。",
+      "image": "assets/official/0502fb07bb-NFmPURg.jpg",
+      "source": {
+        "file": "paper/other_select_index_id_209_title_id_1834_group_id_71.html",
+        "url": "https://www.jenwa.com.tw/paper/other_select_index.php?id=209&title_id=1834&group_id=71"
+      }
+    },
+    {
+      "title": "8. 內外牆板",
+      "text": "選用鋼板知名大廠「燁輝」之 鍍55%鋁鋅烤漆鋼板做為外牆板， 後襯之PU發泡層具有基本隔熱效果。 內牆則採PVC覆膜板， 具有防焰、防水、美觀、耐髒、易清潔等優點。",
+      "image": "assets/official/f2015ad3fc-sYFU3Xg.jpg",
+      "source": {
+        "file": "paper/other_select_index_id_209_title_id_1834_group_id_71.html",
+        "url": "https://www.jenwa.com.tw/paper/other_select_index.php?id=209&title_id=1834&group_id=71"
+      }
+    },
+    {
+      "title": "9. 水電配裝",
+      "text": "水電材料皆使用國內CNS認證知名品牌。 熱水管件採用彰源#304不銹鋼管。 確保管件線路安全及長久使用。",
+      "image": "assets/official/8ad7325462-TCKUvjS.jpg",
+      "source": {
+        "file": "paper/other_select_index_id_209_title_id_1834_group_id_71.html",
+        "url": "https://www.jenwa.com.tw/paper/other_select_index.php?id=209&title_id=1834&group_id=71"
+      }
+    },
+    {
+      "title": "10.室內裝潢",
+      "text": "具備極佳的客製化能力，一切可依業主需求加以製做。 客廳、廚房、浴室、臥房、系統木櫃等……。 您想的到，我們就做的到。",
+      "image": "assets/official/f29db41758-j0Cjv7n.jpg",
+      "source": {
+        "file": "paper/other_select_index_id_209_title_id_1834_group_id_71.html",
+        "url": "https://www.jenwa.com.tw/paper/other_select_index.php?id=209&title_id=1834&group_id=71"
+      }
+    },
+    {
+      "title": "11.清潔作業",
+      "text": "盡可能消除施工過程所產生的汙漬及瑕疵， 使物品完好的交付。",
+      "image": "assets/official/f88ca0c309-BsRer6Y.jpg",
+      "source": {
+        "file": "paper/other_select_index_id_209_title_id_1834_group_id_71.html",
+        "url": "https://www.jenwa.com.tw/paper/other_select_index.php?id=209&title_id=1834&group_id=71"
+      }
+    },
+    {
+      "title": "12.裝車出貨",
+      "text": "載運超尺寸物品，運輸是過程中最困難的一個環節。 因此車趟皆配有助手、專車親送， 將過程中受損害的風險降到最低。 隨車附贈高壓實心磚做簡易離地墊高之用。",
+      "image": "assets/official/7d77f1986d-ziT4ond.jpg",
+      "source": {
+        "file": "paper/other_select_index_id_209_title_id_1834_group_id_71.html",
+        "url": "https://www.jenwa.com.tw/paper/other_select_index.php?id=209&title_id=1834&group_id=71"
+      }
+    },
+    {
+      "title": "13.現場工事",
+      "text": "整地農路、舖面灌漿作業、鐵工大門圍籬、 水電管路作業、景觀工程作業等現地工程， 皆可一條龍式統包服務！ 本頁案例所示工法、結構配置及用料僅為展示示意。實際施工時，將依現場環境條件、結構安全、材料供應及相關法規等因素，由本公司專業技術團隊進行評估與最適化調整。 為確保施工品質與安全，若有調整或改良之處，皆屬專業判斷下之合理差異，恕不另行通知，敬請理解。",
+      "image": "assets/official/0560a8d56e-M9hUMSf.jpg",
+      "source": {
+        "file": "paper/other_select_index_id_209_title_id_1834_group_id_71.html",
+        "url": "https://www.jenwa.com.tw/paper/other_select_index.php?id=209&title_id=1834&group_id=71"
+      }
+    }
+  ],
+  "advantages": {
+    "images": [
+      "assets/official/11f6a7338c-D1725874147241.jpg",
+      "assets/official/57c9f95c96-D1602655947132.jpg",
+      "assets/official/f428e1216f-D1602655947133.jpg",
+      "assets/official/06feb8dfb3-D1602655947134.jpg",
+      "assets/official/0db0706888-D1602655947145.jpg",
+      "assets/official/d334ffca64-D1602655947146.jpg",
+      "assets/official/65177902a6-D1602655947227.jpg",
+      "assets/official/c013713f83-D1602655947228.jpg",
+      "assets/official/337a915624-D1602656383791.jpg",
+      "assets/official/c28b3c7d21-D1602656383792.jpg",
+      "assets/official/23fbc3a25e-D1602656383793.jpg",
+      "assets/official/a3b14295ff-D1602656383794.jpg",
+      "assets/official/0f649eb23e-D1602656383795.jpg",
+      "assets/official/3e23610bfa-D1602656383796.jpg",
+      "assets/official/6e64d7c607-D1725874147242.jpg",
+      "assets/official/6db6810c0b-D1602656383808.jpg",
+      "assets/official/cc3b706a89-D1602656399141.jpg",
+      "assets/official/9ebf6247fb-D1602656399142.jpg",
+      "assets/official/d6764946e8-D1602656399143.jpg"
+    ],
+    "source": {
+      "file": "paper/other_select_index_id_522_title_id_1834_group_id_71.html",
+      "url": "https://www.jenwa.com.tw/paper/other_select_index.php?id=522&title_id=1834&group_id=71"
+    }
+  },
+  "differences": [
+    {
+      "title": "加大尺寸",
+      "text": "易立構較貨櫃尺寸加寬而挑高。不感壓迫、不易悶熱。",
+      "image": "assets/official/73109db4e0-P-B01.png",
+      "source": {
+        "file": "paper/other_select_index_id_207_title_id_1834_group_id_71.html",
+        "url": "https://www.jenwa.com.tw/paper/other_select_index.php?id=207&title_id=1834&group_id=71"
+      }
+    },
+    {
+      "title": "折舊情形",
+      "text": "貨櫃為船公司使用後報廢， 其本質為「裝貨」而非「居住」。 曾裝載過何種物品(如放射性、油質、不明化學物質) 無法追溯查證。 全新的易立構則無此疑慮。",
+      "image": "assets/official/f2a847e5f2-P-B02.png",
+      "source": {
+        "file": "paper/other_select_index_id_207_title_id_1834_group_id_71.html",
+        "url": "https://www.jenwa.com.tw/paper/other_select_index.php?id=207&title_id=1834&group_id=71"
+      }
+    },
+    {
+      "title": "隔熱保溫",
+      "text": "易立構全結構以輕質水泥及發泡鋼板包覆， 配合自然排熱設計，具有良好的保溫效果。 貨櫃為單層鋼板，鋼板表面溫度極高， 室內則動輒攝氏50多度。",
+      "image": "assets/official/afb4c1bdde-P-B03.png",
+      "source": {
+        "file": "paper/other_select_index_id_207_title_id_1834_group_id_71.html",
+        "url": "https://www.jenwa.com.tw/paper/other_select_index.php?id=207&title_id=1834&group_id=71"
+      }
+    },
+    {
+      "title": "塗層加工",
+      "text": "貨櫃表漆為一般噴塗，無法長久。 易立構表層為高溫烤漆鋼板，具有良好的抗候性。",
+      "image": "assets/official/a810079fdf-P-B04.png",
+      "source": {
+        "file": "paper/other_select_index_id_207_title_id_1834_group_id_71.html",
+        "url": "https://www.jenwa.com.tw/paper/other_select_index.php?id=207&title_id=1834&group_id=71"
+      }
+    },
+    {
+      "title": "單元合併",
+      "text": "貨櫃無結構框，經大面積切割後會使頂板下陷， 需將其扳正並補強，浪費工本及鋼材。 易立構則為結構框的型式，無切割補強的問題。",
+      "image": "assets/official/0aad3afe28-P-B05.png",
+      "source": {
+        "file": "paper/other_select_index_id_207_title_id_1834_group_id_71.html",
+        "url": "https://www.jenwa.com.tw/paper/other_select_index.php?id=207&title_id=1834&group_id=71"
+      }
+    },
+    {
+      "title": "加工便利",
+      "text": "貨櫃為浪型邊板，一經切割便會捲曲變型， 門窗安裝及室內裝潢沒有標準，因時而異、狀況不一。 易立構則於生產線上統一標準製作。",
+      "image": "assets/official/0190bc807b-P-B06.png",
+      "source": {
+        "file": "paper/other_select_index_id_207_title_id_1834_group_id_71.html",
+        "url": "https://www.jenwa.com.tw/paper/other_select_index.php?id=207&title_id=1834&group_id=71"
+      }
+    },
+    {
+      "title": "外部觀感",
+      "text": "貨櫃為船公司使用後報廢淘汰，補釘凹陷實屬平常。 易立構為全新鋼板、全新外裝。",
+      "image": "assets/official/47275fc67a-P-B07.png",
+      "source": {
+        "file": "paper/other_select_index_id_207_title_id_1834_group_id_71.html",
+        "url": "https://www.jenwa.com.tw/paper/other_select_index.php?id=207&title_id=1834&group_id=71"
+      }
+    },
+    {
+      "title": "底部結構",
+      "text": "貨櫃地板為木板，有受潮腐爛、老鼠打洞、白蟻啃蝕等缺點。 易立構為鋼筋混凝土，無耗損問題。 為符合海運成種需求，貨櫃地板使用19層28mm的高壓防水夾板，為市面可見最高等級的木板。如此高規的地板如會因時異地而壞損，一般輕鋼構組合屋所使用普通的15-18mm防水夾板更不堪長久使用！",
+      "image": "assets/official/fa806f5441-P-B08.png",
+      "source": {
+        "file": "paper/other_select_index_id_207_title_id_1834_group_id_71.html",
+        "url": "https://www.jenwa.com.tw/paper/other_select_index.php?id=207&title_id=1834&group_id=71"
+      }
+    },
+    {
+      "title": "竊盜可能",
+      "text": "貨櫃屋沒有特色，門窗用料及位置大同小異，常有整體被吊竊情事發生。 易立構為全新訂製、深具特色，不易成為竊賊目標。",
+      "image": "assets/official/c8aa512577-P-B09.png",
+      "source": {
+        "file": "paper/other_select_index_id_207_title_id_1834_group_id_71.html",
+        "url": "https://www.jenwa.com.tw/paper/other_select_index.php?id=207&title_id=1834&group_id=71"
+      }
+    },
+    {
+      "title": "單元重量",
+      "text": "貨櫃屋常態重量為2200KG，受風常有位移、翻覆情事發生。 易立構常態重量約4500KG，抗風能力相對優異。",
+      "image": "assets/official/a19bd8224f-P-B10.png",
+      "source": {
+        "file": "paper/other_select_index_id_207_title_id_1834_group_id_71.html",
+        "url": "https://www.jenwa.com.tw/paper/other_select_index.php?id=207&title_id=1834&group_id=71"
+      }
+    }
+  ],
+  "patents": [
+    {
+      "number": "M408598",
+      "image": "assets/official/82fd5f4607-A12.png",
+      "source": {
+        "file": "paper/other_select_index_id_208_title_id_1834_group_id_71.html",
+        "url": "https://www.jenwa.com.tw/paper/other_select_index.php?id=208&title_id=1834&group_id=71"
+      }
+    },
+    {
+      "number": "M431918",
+      "image": "assets/official/65807ac563-A13.png",
+      "source": {
+        "file": "paper/other_select_index_id_208_title_id_1834_group_id_71.html",
+        "url": "https://www.jenwa.com.tw/paper/other_select_index.php?id=208&title_id=1834&group_id=71"
+      }
+    },
+    {
+      "number": "M552518",
+      "image": "assets/official/61dd1380ba-P-C01.png",
+      "source": {
+        "file": "paper/other_select_index_id_208_title_id_1834_group_id_71.html",
+        "url": "https://www.jenwa.com.tw/paper/other_select_index.php?id=208&title_id=1834&group_id=71"
+      }
+    }
+  ],
+  "faq": [
+    {
+      "title": "結構相關",
+      "items": [
+        {
+          "question": "什麼是易立構？ 易立構是用舊貨櫃改裝的嗎？",
+          "answer": "易立構是為改進貨櫃屋固有缺點，使用全新材料打造而成，非對舊貨櫃進行改裝。它是一個由鋼構合併輕質水泥的複合式新型結構體。"
+        },
+        {
+          "question": "易立構的空間尺寸如何？",
+          "answer": "易立構為633固定框型，長6M、寬3M、高3M，為道路可合法運輸之單一尺寸最大化。"
+        },
+        {
+          "question": "易立構可以因應不同狀況做成各種尺寸嗎？",
+          "answer": "633模組為制式規格，本身具有大量複製的成本優勢存在。非633模組亦可訂製，但將產生大量耗材，製做成本將因此增加。"
+        },
+        {
+          "question": "易立構合併及分拆的成本如何？",
+          "answer": "快併快拆之結構設計，易立構合併需30分鐘、分拆僅需10分鐘。而分拆再合併過程中，幾無裝潢建材因而受損。"
+        },
+        {
+          "question": "結構於放置時是否需要墊高？",
+          "answer": "易立構基本配置六個高壓水泥磚，可墊高8公分，用意為離地及調整水平。倘有其它原由，如淹水、或其它設計使用而需高架之時，則需自費另行製做高架鋼構基礎。"
+        },
+        {
+          "question": "結構是否需要基礎？",
+          "answer": "易立構完工重量平均約在5000KG，比一般的貨櫃屋完工重量約在1800KGs來的高。 自體重量足夠，即相對較穩定。但在極端的氣候中，強風下仍無法完全保證不會位移，建議至少製做平面型基礎將其固定。"
+        },
+        {
+          "question": "基礎該如何製做？",
+          "answer": "★平面型-地面綁筋灌漿(厚度10cm以上)，後以膨脹螺絲將結構與地面固定。 ★高架型-利用H鋼構製做高架平台，再將結構放上，焊接固定。"
+        },
+        {
+          "question": "結構可以上下交疊？",
+          "answer": "易立構可視合併狀況去增加強度。當有強度需求時，結構技師便會計算相對應力做足夠的補強，甚而可以疊至三層。"
+        },
+        {
+          "question": "為何不把屋頂做大一點，遮陽及洩水效果會比較好呢？",
+          "answer": "建物在原地建造，可隨意做出任何型式。然行動房屋必須有運輸考量。超尺寸物件在運輸過程中易遭遇到受損、受罰及高危險。故，倘有高架屋頂需求，須待易立構落地後，另外於現場製做。"
+        },
+        {
+          "question": "現場除了結構外還有其它工作，可一併協助處理嗎？",
+          "answer": "我廠能包辦自無到有的所有過程。但建議現地的工作儘量讓在地的工班處理。佔有地利之便，在工作效率上會增進許多。"
+        },
+        {
+          "question": "內部寬度足夠當車庫使用嗎？",
+          "answer": "國內大型房車(含休旅車)寬度平均值為180-190cm，易立構內部寬270cm，足以停進任何車種。 且車門可開啟45度以上供駕駛側進出使用。"
+        },
+        {
+          "question": "產品售價如何？",
+          "answer": "易立構為量身打造，造價會隨著業主需求加總而有所不同。 以套房型格局而言，含結構、門窗、裝潢、衛浴、運輸等，價格區間一般會落在50萬餘元。 當複數合併成為大面積時，並非每個結構框都需要一樘大門、一間衛浴等，便可以稀釋工料而降低平均面積造價。"
+        },
+        {
+          "question": "地目是建地，可以申請合法的建照及使用執照嗎？",
+          "answer": "建地分有「都市計劃內」及「都市計劃外」等許多型態，並非一定可合法申請。 業主需自行至地政事務所調出「土地登記第一類謄本」、「地籍圖謄本」、「使用分區證明書」等三項文件提供我廠，閱後方可評估。"
+        },
+        {
+          "question": "易立構和組合屋有什麼差別？",
+          "answer": "組合屋為了要因應容易方便拆裝，結構間以「鎖固」方式結合，空隙較大、屋體容易產生搖動。 且重量輕，抗風能力較差。 地板為夾板木地板，視為耗材，不利長久使用。 易立構結構間以「焊固」方式結合，架構間沒有空隙，不會因受風而搖動。屋體重，抗風能力優異。 地板為鋼筋混凝土為永久性素材。"
+        },
+        {
+          "question": "易立構和輕鋼構有什麼差別？",
+          "answer": "輕鋼構建構優勢是可任意塑型，並可提高土地利用率。 缺點是現場施工量大(現場施工量愈大、造價成本愈高)，且結構、鐵工、水電、裝潢、泥作等，需獨立發包由各別廠商處理，除非總包，否則不易找尋合適工班，品質也參差不齊。 易立構自工廠從無到有，一體製做，遇有瑕疵，沒有廠商間推諉卸責的問題。 現場工事量低，造價成本低，不受天候因素影響、完工迅速。"
+        },
+        {
+          "question": "使用年限為何？ 有耗材需要保養嗎？",
+          "answer": "在一般環境(非沿海、溫泉區)使用下，倘有定期維護 (主結構鋼管油漆塗層、屋頂防水塗層、外牆矽利康收邊)，「最低使用年限」可長達「二十年」之久。 倘有搭建屋頂，則「屋頂防水塗層」便不需保養，「主結構鋼管」和「矽利康」也可以降底保養頻率次數。"
+        }
+      ],
+      "source": {
+        "file": "paper/other_page_id_1857.html",
+        "url": "https://www.jenwa.com.tw/paper/other_page.php?id=1857"
+      }
+    },
+    {
+      "title": "水電相關",
+      "items": [
+        {
+          "question": "化糞池需要先行埋設嗎？",
+          "answer": "汙水管設置在結構側面，化糞池不需先行配置。待結構安裝完畢時，再進行水電的配裝工作，配管才能美觀而完善。"
+        },
+        {
+          "question": "有特殊複雜的裝潢及水電需求時，可以協助處理嗎？",
+          "answer": "結構內任何的想法及需求都可以在廠內完成。"
+        },
+        {
+          "question": "冷氣機如何安裝？該選擇單機式或分離式？",
+          "answer": "因單機式冷氣機體震動明顯將引起室內共鳴共震，建議裝置分離式冷氣。在做室內裝潢時，會配置預留孔穿管使用，並做背板補強，供室內機懸掛。現今分離式冷氣都設計成室外機送電，所以室內不必配電，自總電源箱留冷氣專用開關即可。"
+        },
+        {
+          "question": "結構內水電配接會做到什麼樣的程度？",
+          "answer": "內部所有的水電配置皆整合完畢，並已延伸至結構外。業主要只要雇請當地水電自外相接即可使用，內部不必再理會。"
+        },
+        {
+          "question": "結構上方可以直接放置水塔嗎？",
+          "answer": "水塔可以直接放置結構上方，但直接放置會因為高度不足導致水壓不足，供水難以使用。再者，在非使用自來水的情況下，水塔經常需要清洗。若位於高處，將使得清洗作業相對困難。故通常建議將水塔放置地面，出水再接加壓馬達及過濾器，便能克服用水問題。"
+        },
+        {
+          "question": "若為空地狀態，可否申請水電？地目又是否有差別？",
+          "answer": "若為空地狀態，可直接向自來水公司申請「空地臨時用水」、並透過水電工程行向電力公司申請臨時用電(通常以照明用電為名目)。 地目差異不影響申請。 但需注意於申請時，不可以有其它如鐵皮屋、貨櫃等地上物，否則將不被受理。 臨時水電比正式水電費用稍高。"
+        }
+      ],
+      "source": {
+        "file": "paper/other_page_id_1857.html",
+        "url": "https://www.jenwa.com.tw/paper/other_page.php?id=1857"
+      }
+    },
+    {
+      "title": "門窗相關",
+      "items": [
+        {
+          "question": "常見的窗戶玻璃有分哪幾種？",
+          "answer": "✓ 以厚度分 ，有3mm、5mm、8mm、10mm； ✓ 以外觀分 ，有明玻、霧玻、染色玻、半反玻、烤漆玻； ✓ 以硬度分 ，有強化玻、一般玻； ✓ 以結合方式分 ，有單層玻、膠合玻。"
+        },
+        {
+          "question": "常見的外門門型有哪些？",
+          "answer": "以開門方式分，有單開門、雙開門、落地拉門、鐵捲門；以門片材質分，有白鐵門、烤漆門、鋁門、玻璃門、木門、塑鋼門。"
+        },
+        {
+          "question": "常見的窗型有哪些？",
+          "answer": "格子防盜平開窗、一般及氣密平開窗、氣密推射窗、固定玻璃觀景窗、活動百葉窗、複合窗。平開窗有分為二片及四片式。推射窗有分為上推式及側推式。 活動百葉窗有分為旋鈕式及鏈條式。"
+        },
+        {
+          "question": "以單開門而言，該選擇內開或外開為好？",
+          "answer": "單開門有內外門檻差異。當門檻設計為內高外低，雨水沿門片而下時才不會灌入室內，所以單開門選擇外開型為好。"
+        },
+        {
+          "question": "門窗安裝後有門窗簷的需求，可有選擇？",
+          "answer": "門窗基本即含有簡易型雨遮。但美觀及深度皆不甚足夠。倘有進一步需求，我廠另有開發藝術雨棚，骨架材質為耐衝擊強化塑膠，可搭配PP板或塑鋁板，為外觀及實用性加分。"
+        }
+      ],
+      "source": {
+        "file": "paper/other_page_id_1857.html",
+        "url": "https://www.jenwa.com.tw/paper/other_page.php?id=1857"
+      }
+    },
+    {
+      "title": "裝潢相關",
+      "items": [
+        {
+          "question": "建物有特殊需求，可協助製做嗎？",
+          "answer": "我廠自有鐵工、木作、水電、泥作、運輸五大工班。可滿足建築物一切需求。舉凡金屬製品、系統櫥櫃、廚房設備、衛浴設施、高架通舖、窗簾五金等等，皆可在工廠內一條龍生產完工，降低現場雇工帶來的昂貴及不便。"
+        },
+        {
+          "question": "貴廠使用何者室內壁材居多？",
+          "answer": "活動式結構，因為有運輸及吊卸的需求，室內儘量選擇輕質而富彈性的壁面材料，才不會在運輸途中龜裂、破損、甚而掉落。我廠推荐者為PVC覆膜面板材，其具有美觀、防水、防蟲、防焰、環保、易清潔等綜合效果。"
+        },
+        {
+          "question": "貴廠使用何者地板素材居多？",
+          "answer": "2mm仿木塑膠地板。 相較於坊間多採用水性膠做單面貼合，我廠採用更高成本的強力膠做雙面貼合。具有貼合力強、開縫度小、可容水浸等優點。"
+        },
+        {
+          "question": "室內可以裝吊扇嗎？",
+          "answer": "易立構比正常貨櫃高度多40公分，可以裝置吊扇。但因吊重有局部補強問題，需在廠內便裝置完畢，無法由業主任意安裝。所有需吊掛的重物皆是如此。"
+        },
+        {
+          "question": "可以自行裝潢嗎？",
+          "answer": "可以 。 易立構內部的各項加工，除了主要的框結構為SOP標準製程無法妥協外，其餘的任何加工皆可依業主意思而作為或不作為。"
+        }
+      ],
+      "source": {
+        "file": "paper/other_page_id_1857.html",
+        "url": "https://www.jenwa.com.tw/paper/other_page.php?id=1857"
+      }
+    },
+    {
+      "title": "運輸相關",
+      "items": [
+        {
+          "question": "現場不知能否進入，可派員場勘嗎？",
+          "answer": "場勘有交通及人力成本，會依距離酌收費用。倘得以進入，則該費用自將來的貨款中扣除；倘無法進入，該費用用以補償差勤損失。"
+        },
+        {
+          "question": "運費支出包含哪些項目？",
+          "answer": "根據「運費表」所示價格，我廠司機配有一名以上助手親自運送至作業現場，並將結構吊卸完畢、水平定位完成。業主需提供合理行駛環境使運輸車輛得以進入現場。凡因道路狹窄、轉彎角度過大、地面溼滑、吊卸距離過遠等，所致生之費用，需由業主一概承擔。"
+        },
+        {
+          "question": "運輸還有哪些注意事項？",
+          "answer": "因易立構超寬超高而外觀精緻，過程中易因外物碰撞而受損。舉凡樹幹、樹枝、電桿等，都將可能致使外觀有程度不一的受損。縱使駕駛如何小心，總有不可抗力。若情節尚屬輕微，客戶請體諒、不要過於挑剔苛責。"
+        },
+        {
+          "question": "卡車無法進入(如道路狹窄)或無法操作(如吊卸距離過遠)，該如何處理？",
+          "answer": "情況另需其它機械之配合，如全吊車、怪手、堆高機、廠房天車等等。在場勘初期即會提供有專業上建議。"
+        },
+        {
+          "question": "離島地區可以購買嗎？",
+          "answer": "可以。 我廠將結構於指定時間送至台灣境內指定碼頭。業主需自行雇船及處理到港後的陸運部份。"
+        }
+      ],
+      "source": {
+        "file": "paper/other_page_id_1857.html",
+        "url": "https://www.jenwa.com.tw/paper/other_page.php?id=1857"
+      }
+    }
+  ],
+  "cases": [
+    {
+      "id": "24190",
+      "title": "台南善化",
+      "images": [
+        "assets/official/f9400f3cd8-E1689220462156.jpg",
+        "assets/official/b0faf92f6c-E1689220462155.jpg",
+        "assets/official/ee7ac38ee1-E1689220462144.jpg",
+        "assets/official/4edd50f122-E1689220462143.jpg",
+        "assets/official/9fece454c2-E1689220462142.jpg",
+        "assets/official/d3415610ee-E1689220462141.jpg"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_24190_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=24190"
+      },
+      "description": "",
+      "region": "south"
+    },
+    {
+      "id": "22184",
+      "title": "高雄大寮",
+      "images": [
+        "assets/official/178f0b3235-E1622704541751.jpg",
+        "assets/official/3c2388a41c-E1622704541753.jpg",
+        "assets/official/e1647c0bce-E1622704541755.jpg",
+        "assets/official/2fd71dcd95-E1622704541752.jpg",
+        "assets/official/efbfe18e6a-E1622704541754.jpg",
+        "assets/official/b891fe8d0e-E1622704541756.jpg"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_22184_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=22184"
+      },
+      "description": "",
+      "region": "south"
+    },
+    {
+      "id": "22183",
+      "title": "高雄桃源",
+      "images": [
+        "assets/official/b2f657a4a3-E1622624256621.jpg",
+        "assets/official/4009417676-E1622624256623.jpg",
+        "assets/official/1a86b523c2-E1622624256624.jpg",
+        "assets/official/5c0e4159e4-E1622624256636.jpg",
+        "assets/official/0eca2166a5-E1622624256625.jpg",
+        "assets/official/f6ce31e08b-E1622624256622.jpg"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_22183_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=22183"
+      },
+      "description": "",
+      "region": "south"
+    },
+    {
+      "id": "21853",
+      "title": "花蓮富里",
+      "images": [
+        "assets/official/94388d389e-E1622774000513.jpg",
+        "assets/official/e5cdd476df-E1622774000512.jpg",
+        "assets/official/c83640791a-E1622774000511.jpg"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_21853_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=21853"
+      },
+      "description": "",
+      "region": "east"
+    },
+    {
+      "id": "21791",
+      "title": "高雄大樹",
+      "images": [
+        "assets/official/baba071d07-E1608021746656.jpg",
+        "assets/official/7b99b7db5c-E1608021746655.jpg",
+        "assets/official/ec1d3fbfdb-E1608021746654.jpg",
+        "assets/official/2ce4445eb4-E1608021746643.jpg",
+        "assets/official/f0b5d2c1e8-E1608021746642.jpg",
+        "assets/official/0fda76551b-E1608021746641.jpg"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_21791_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=21791"
+      },
+      "description": "",
+      "region": "south"
+    },
+    {
+      "id": "21655",
+      "title": "小琉球民宿",
+      "images": [
+        "assets/official/2ed6d99c6f-E1602057709156.jpg",
+        "assets/official/acd28c2b72-E1602057709155.jpg",
+        "assets/official/f27a454c30-E1602057709154.jpg",
+        "assets/official/0a09eebe82-E1602057709153.jpg",
+        "assets/official/b58760a297-E1602057709152.jpg",
+        "assets/official/0361579064-E1602057709151.jpg"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_21655_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=21655"
+      },
+      "description": "",
+      "region": "islands"
+    },
+    {
+      "id": "20958",
+      "title": "屏東新埤",
+      "images": [
+        "assets/official/e6c85386e1-E1594891313106.jpg",
+        "assets/official/b26eecaa3c-E1594891313105.jpg",
+        "assets/official/4ce3fcc868-E1594891313103.jpg",
+        "assets/official/572cb2ab37-E1594891390521.jpg",
+        "assets/official/fdbeddc4b0-E1594891390522.jpg",
+        "assets/official/9d59039ed6-E1594891313091.jpg"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_20958_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=20958"
+      },
+      "description": "",
+      "region": "south"
+    },
+    {
+      "id": "20257",
+      "title": "屏東麟洛",
+      "images": [
+        "assets/official/5267a3e9e5-E1580724055225.jpg",
+        "assets/official/4da32c4b49-E1580724055224.jpg",
+        "assets/official/91bc08f0c5-E1580724055223.jpg",
+        "assets/official/43b1546568-E1580723968366.jpg"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_20257_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=20257"
+      },
+      "description": "",
+      "region": "south"
+    },
+    {
+      "id": "20178",
+      "title": "雲林東勢",
+      "images": [
+        "assets/official/fe6ade2f12-E1580290199131.jpg",
+        "assets/official/224c250de1-E1580289993596.jpg",
+        "assets/official/a97cf58228-E1580289993585.jpg",
+        "assets/official/4a2b2b9618-E1580289993584.jpg",
+        "assets/official/50512925ab-E1580289993583.jpg",
+        "assets/official/762a07fab3-E1580289993582.jpg"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_20178_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=20178"
+      },
+      "description": "",
+      "region": "central"
+    },
+    {
+      "id": "20177",
+      "title": "南投市",
+      "images": [
+        "assets/official/f9551c23f1-E1600911742802.jpg",
+        "assets/official/4c24d265f3-E1600911742801.jpg",
+        "assets/official/a0c4723e36-E1580289899226.jpg",
+        "assets/official/63c0ae55a8-E1580289899225.jpg",
+        "assets/official/778f88966e-E1580289899224.jpg",
+        "assets/official/47e56cb151-E1580289899223.jpg"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_20177_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=20177"
+      },
+      "description": "",
+      "region": "central"
+    },
+    {
+      "id": "20176",
+      "title": "南投中寮",
+      "images": [
+        "assets/official/1ff3399695-E1580289642266.jpg",
+        "assets/official/5e0c568a0e-E1580289642265.jpg",
+        "assets/official/025616364f-E1580289642254.jpg",
+        "assets/official/b25e1e6fec-E1580289642253.jpg",
+        "assets/official/909b801780-E1580289642252.jpg",
+        "assets/official/a09b2fa151-E1580289642191.jpg"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_20176_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=20176"
+      },
+      "description": "",
+      "region": "central"
+    },
+    {
+      "id": "19642",
+      "title": "小琉球民宿",
+      "images": [
+        "assets/official/391e0121c7-E1569392642026.jpg",
+        "assets/official/1334b8c4f5-E1569392642025.jpg",
+        "assets/official/8cd6142d7c-E1569392642024.jpg",
+        "assets/official/e95ce5d2e8-E1569392642023.jpg",
+        "assets/official/6ef61808b3-E1569392642022.jpg",
+        "assets/official/1ecea656ef-E1569392642021.jpg"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_19642_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=19642"
+      },
+      "description": "",
+      "region": "islands"
+    },
+    {
+      "id": "19641",
+      "title": "新竹湖口",
+      "images": [
+        "assets/official/2a8efafda6-E1569381028836.jpg",
+        "assets/official/16d39e160c-E1569381028835.jpg",
+        "assets/official/627798d65a-E1569381028834.jpg",
+        "assets/official/b89a849b0d-E1569381028833.jpg",
+        "assets/official/b26c0856b6-E1569381028832.jpg",
+        "assets/official/be72269ec8-E1569381028831.jpg"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_19641_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=19641"
+      },
+      "description": "",
+      "region": "north"
+    },
+    {
+      "id": "19640",
+      "title": "小琉球民宿",
+      "images": [
+        "assets/official/a80776aaf1-E1569314906845.jpg",
+        "assets/official/1f659bc081-E1569314906843.jpg",
+        "assets/official/0ec243c0a5-E1569314906842.jpg",
+        "assets/official/6ceefe1a1d-E1569314906841.jpg"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_19640_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=19640"
+      },
+      "description": "",
+      "region": "islands"
+    },
+    {
+      "id": "19504",
+      "title": "花蓮玉里",
+      "images": [
+        "assets/official/a2405522ea-E1566982939386.jpg",
+        "assets/official/92dee6dfa0-E1566982939385.jpg",
+        "assets/official/4cfd95ef6a-E1566982939374.jpg",
+        "assets/official/bdcd1b878a-E1566982939373.jpg",
+        "assets/official/166f685253-E1566982939372.jpg",
+        "assets/official/32d0b9bae4-E1566982939291.jpg"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_19504_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=19504"
+      },
+      "description": "",
+      "region": "east"
+    },
+    {
+      "id": "19503",
+      "title": "彰化花壇",
+      "images": [
+        "assets/official/6d3e698abc-E1566978431001.jpg",
+        "assets/official/5d8a2e2b01-E1566978115136.jpg",
+        "assets/official/8158c2149d-E1566978115135.jpg",
+        "assets/official/323eb6eb8e-E1566978115134.jpg",
+        "assets/official/c509bfe946-E1566978115123.jpg",
+        "assets/official/9301f5b614-E1566978115122.jpg"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_19503_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=19503"
+      },
+      "description": "",
+      "region": "central"
+    },
+    {
+      "id": "17521",
+      "title": "高雄岡山",
+      "images": [
+        "assets/official/ef6b06b7d0-E1551950712306.jpg",
+        "assets/official/4a29a74ff0-E1551950712305.jpg",
+        "assets/official/ea018a1466-E1551950712294.jpg",
+        "assets/official/d6c1c759b1-E1551950712292.jpg",
+        "assets/official/75c6132568-E1551950712251.jpg",
+        "assets/official/6ffb7aaca2-E1551950712293.jpg"
+      ],
+      "specification": "空間運用：三間合併，16.5坪",
+      "source": {
+        "file": "products/info_id_17521_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=17521"
+      },
+      "description": "",
+      "region": "south"
+    },
+    {
+      "id": "17515",
+      "title": "台南官田",
+      "images": [
+        "assets/official/1b76e4c4ab-E1570591391151.jpg",
+        "assets/official/a4dad9185d-E1551940594361.jpg",
+        "assets/official/3bb4d2c20c-E1551940594443.jpg",
+        "assets/official/3e14d6ca85-E1551940594412.jpg",
+        "assets/official/d6bd4c41e6-E1551940594444.jpg",
+        "assets/official/b85113b656-E1551940594456.jpg"
+      ],
+      "specification": "空間運用：五間合併，27.5坪",
+      "source": {
+        "file": "products/info_id_17515_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=17515"
+      },
+      "description": "",
+      "region": "south"
+    },
+    {
+      "id": "16839",
+      "title": "苗栗頭份",
+      "images": [
+        "assets/official/81638a278b-E1546594710966.jpg",
+        "assets/official/0ca0725507-E1546594710965.jpg",
+        "assets/official/222a00faa3-E1546594710964.jpg",
+        "assets/official/77a92cb893-E1546594710963.jpg",
+        "assets/official/79ac654cf4-E1546594710952.jpg",
+        "assets/official/3bd197943b-E1546594710951.jpg"
+      ],
+      "specification": "空間運用：單間，5.5坪 目的：自用 文案：假日休閒用 地點：苗栗頭份 價格區間：55萬起 格局：一衛一廳一廚。不含外部水電、地面基礎",
+      "source": {
+        "file": "products/info_id_16839_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=16839"
+      },
+      "description": "",
+      "region": "north"
+    },
+    {
+      "id": "16838",
+      "title": "台南後壁",
+      "images": [
+        "assets/official/50b92a3ef7-E1546585653116.jpg",
+        "assets/official/af9e9330d8-E1546585653115.jpg",
+        "assets/official/44a8a63255-E1546585653114.jpg",
+        "assets/official/dcaa024e76-E1546585653113.jpg",
+        "assets/official/d8f45aa549-E1546585653112.jpg",
+        "assets/official/5f9eea285c-E1546585653071.jpg"
+      ],
+      "specification": "空間運用：單間，5.5坪 目的：自用 文案：假日休閒用 地點：台南後壁 價格區間：55萬起 格局：一衛一廳。不含外部水電、地面基礎",
+      "source": {
+        "file": "products/info_id_16838_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=16838"
+      },
+      "description": "",
+      "region": "south"
+    },
+    {
+      "id": "14098",
+      "title": "苗栗通霄",
+      "images": [
+        "assets/official/5406b8e9db-E1552017255451.jpg",
+        "assets/official/b9cabee457-E1552017032722.jpg",
+        "assets/official/b0487964dd-E1552017032711.jpg",
+        "assets/official/91b702313d-E1533112385016.jpg",
+        "assets/official/9dc2574581-E1533112385015.jpg",
+        "assets/official/d75a4b94de-E1533112381783.jpg"
+      ],
+      "specification": "空間運用：單間，5.5坪",
+      "source": {
+        "file": "products/info_id_14098_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=14098"
+      },
+      "description": "",
+      "region": "north"
+    },
+    {
+      "id": "14097",
+      "title": "新竹市",
+      "images": [
+        "assets/official/9de697f4bd-E1533111050956.jpg",
+        "assets/official/1b99555d9c-E1533111050955.jpg",
+        "assets/official/9f9c002244-E1533111050954.jpg",
+        "assets/official/ba37752c41-E1533111050953.jpg",
+        "assets/official/f0a63515aa-E1533111050952.jpg",
+        "assets/official/d6bfec0c92-E1533111050951.jpg"
+      ],
+      "specification": "空間運用：兩間合併，11坪",
+      "source": {
+        "file": "products/info_id_14097_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=14097"
+      },
+      "description": "",
+      "region": "north"
+    },
+    {
+      "id": "14096",
+      "title": "高雄鳳山",
+      "images": [
+        "assets/official/97cb11e330-E1533111642576.jpg",
+        "assets/official/f30e3fb6b2-E1533111642575.jpg",
+        "assets/official/8a8cd95e64-E1533111642574.jpg",
+        "assets/official/b8c2c55a2c-E1533111642573.jpg",
+        "assets/official/e2a0772c98-E1533111642572.jpg",
+        "assets/official/d83876a901-E1533111642571.jpg"
+      ],
+      "specification": "空間運用：單間，5.5坪",
+      "source": {
+        "file": "products/info_id_14096_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=14096"
+      },
+      "description": "",
+      "region": "south"
+    },
+    {
+      "id": "14092",
+      "title": "台南西港",
+      "images": [
+        "assets/official/f81c31bccb-E1533265105496.JPG",
+        "assets/official/dd6779a1ac-E1533265105485.JPG",
+        "assets/official/581ab708f4-E1533265105484.jpg",
+        "assets/official/8fbb110098-E1533265105483.jpg",
+        "assets/official/dbed1337a8-E1533265105482.jpg",
+        "assets/official/97b0d14b8b-E1533265105481.jpg"
+      ],
+      "specification": "空間運用：十間合併 目的：自用住宅 文案：正式建案 地點：台南西港 格局：一廳一廚兩衛三房",
+      "source": {
+        "file": "products/info_id_14092_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=14092"
+      },
+      "description": "",
+      "region": "south"
+    },
+    {
+      "id": "14091",
+      "title": "小琉球民宿",
+      "images": [
+        "assets/official/3930166f8b-E1533195841086.jpg",
+        "assets/official/43b6274198-E1533195841085.jpg",
+        "assets/official/e2561cebf1-E1533195841084.jpg",
+        "assets/official/7344a8a70e-E1533195841073.jpg",
+        "assets/official/46f4e04d28-E1533195841072.jpg",
+        "assets/official/a997b9982a-E1533195841071.jpg"
+      ],
+      "specification": "空間運用：六間合併，33坪 目的：商用 文案：蹼客潛水 地點：小琉球 格局：主結構、衛浴、部份裝潢。不含鋼構基礎",
+      "source": {
+        "file": "products/info_id_14091_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=14091"
+      },
+      "description": "",
+      "region": "islands"
+    },
+    {
+      "id": "11982",
+      "title": "嘉義中埔",
+      "images": [
+        "assets/official/b7596336b2-E1533203055156.JPG",
+        "assets/official/661d273727-E1533203055155.JPG",
+        "assets/official/c81d7186ee-E1533203055154.JPG",
+        "assets/official/638af2d9a7-E1533203055153.JPG",
+        "assets/official/e98b1b2a48-E1533203055152.JPG",
+        "assets/official/ac69342d91-E1533203055151.JPG"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_11982_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=11982"
+      },
+      "description": "",
+      "region": "south"
+    },
+    {
+      "id": "11981",
+      "title": "新竹寶山",
+      "images": [
+        "assets/official/f77a7637f0-E1533284379266.JPG",
+        "assets/official/c672c6a02e-E1533284379265.jpg",
+        "assets/official/fbad67ac66-E1533284379254.jpg",
+        "assets/official/3c2d8c9073-E1533284379253.JPG",
+        "assets/official/9b298a6761-E1533284379252.JPG",
+        "assets/official/9ae21d44df-E1533284379251.JPG"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_11981_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=11981"
+      },
+      "description": "",
+      "region": "north"
+    },
+    {
+      "id": "11980",
+      "title": "新竹尖石",
+      "images": [
+        "assets/official/9b71f2b59d-E1534147168544.jpg",
+        "assets/official/1834be92d5-E1534147168533.jpg",
+        "assets/official/1a29720cb2-E1534147168532.jpg",
+        "assets/official/bbed57d66b-E1534147168531.jpg"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_11980_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=11980"
+      },
+      "description": "",
+      "region": "north"
+    },
+    {
+      "id": "11979",
+      "title": "高雄梓官",
+      "images": [
+        "assets/official/1e9e1eeaa2-E1534147869675.jpg",
+        "assets/official/8d63365749-E1534147869664.jpg",
+        "assets/official/38c5b7e06e-E1534147869663.jpg",
+        "assets/official/18b78001a1-E1534147869662.jpg",
+        "assets/official/be0b26ecd4-E1534147869661.jpg"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_11979_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=11979"
+      },
+      "description": "",
+      "region": "south"
+    },
+    {
+      "id": "11978",
+      "title": "高雄中壇",
+      "images": [
+        "assets/official/b4c380c3c0-E1534151849085.jpg",
+        "assets/official/742ec1f3d3-E1534151849084.jpg",
+        "assets/official/06d126818f-E1534151849083.jpg",
+        "assets/official/9e437fa693-E1534151849082.jpg",
+        "assets/official/fdd358d58e-E1534151849081.jpg"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_11978_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=11978"
+      },
+      "description": "",
+      "region": "south"
+    },
+    {
+      "id": "11977",
+      "title": "高雄杉林",
+      "images": [
+        "assets/official/f232332e2b-E1524554447396.jpg",
+        "assets/official/de976919d0-E1524554447395.jpg",
+        "assets/official/628ffe04ef-E1524554447394.jpg",
+        "assets/official/f94e1396b1-E1524554447393.jpg",
+        "assets/official/1234544dc0-E1524554447392.jpg",
+        "assets/official/50e976046e-E1524554447391.jpg"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_11977_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=11977"
+      },
+      "description": "",
+      "region": "south"
+    },
+    {
+      "id": "11975",
+      "title": "苗栗頭份",
+      "images": [
+        "assets/official/50f53f6688-E1524551848336.JPG",
+        "assets/official/7022b9a488-E1524551848335.JPG",
+        "assets/official/0ce9908dc3-E1524551848334.JPG",
+        "assets/official/968c901ece-E1524551848333.JPG",
+        "assets/official/590c07e801-E1524551848332.JPG",
+        "assets/official/33b18b036e-E1524551848321.JPG"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_11975_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=11975"
+      },
+      "description": "",
+      "region": "north"
+    },
+    {
+      "id": "11974",
+      "title": "苗栗縣苗栗市",
+      "images": [
+        "assets/official/b2f0140447-E1552034331442.jpg",
+        "assets/official/75a4b31b8b-E1552034331441.jpg",
+        "assets/official/333c35a700-E1552030638624.jpg",
+        "assets/official/17c9054d7a-E1552030638623.jpg",
+        "assets/official/8674ea67ce-E1552030638622.jpg",
+        "assets/official/6196fd0ac2-E1552030638611.jpg"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_11974_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=11974"
+      },
+      "description": "",
+      "region": "north"
+    },
+    {
+      "id": "11973",
+      "title": "苗栗通霄",
+      "images": [
+        "assets/official/3bb9a8dff9-E1524551354496.jpg",
+        "assets/official/14de10dfd4-E1524551354485.jpg",
+        "assets/official/0b7443cdeb-E1524551354484.jpg",
+        "assets/official/dde714b08f-E1524551354483.jpg",
+        "assets/official/66d20df6ab-E1524551354482.jpg",
+        "assets/official/cdb32c88d8-E1524551354481.jpg"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_11973_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=11973"
+      },
+      "description": "",
+      "region": "north"
+    },
+    {
+      "id": "11972",
+      "title": "屏東麟洛",
+      "images": [
+        "assets/official/cbeca21d5a-E1524551190996.jpg",
+        "assets/official/51afe04b25-E1524551190995.jpg",
+        "assets/official/44bc2f2c51-E1524551190994.jpg",
+        "assets/official/cc367bf3f3-E1524551190993.jpg",
+        "assets/official/d25a9584fa-E1524551190992.jpg",
+        "assets/official/ffdcbd9c66-E1524551190991.jpg"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_11972_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=11972"
+      },
+      "description": "",
+      "region": "south"
+    },
+    {
+      "id": "11971",
+      "title": "屏東潮州",
+      "images": [
+        "assets/official/2da4509466-E1524550837106.JPG",
+        "assets/official/396d97470f-E1524550837105.JPG",
+        "assets/official/508999217a-E1524550837104.JPG",
+        "assets/official/c71d8934d8-E1524550837103.JPG",
+        "assets/official/fb066eac15-E1524550837102.jpg",
+        "assets/official/c347de656b-E1524550837101.jpg"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_11971_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=11971"
+      },
+      "description": "",
+      "region": "south"
+    },
+    {
+      "id": "11970",
+      "title": "屏東萬金",
+      "images": [
+        "assets/official/177b6b74b2-E1524548291295.JPG",
+        "assets/official/3128e30d2e-E1524548291284.JPG",
+        "assets/official/43039eb60b-E1524548291283.JPG",
+        "assets/official/f65afd48b0-E1524548291282.JPG",
+        "assets/official/5f8f2b4364-E1524548291281.JPG"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_11970_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=11970"
+      },
+      "description": "",
+      "region": "south"
+    },
+    {
+      "id": "11969",
+      "title": "屏東萬丹",
+      "images": [
+        "assets/official/99b294c87a-E1524548250236.jpg",
+        "assets/official/9965425077-E1524548250235.jpg",
+        "assets/official/ae2ce04219-E1524548250234.jpg",
+        "assets/official/ff290817c3-E1524548250233.jpg",
+        "assets/official/7ff4f171d1-E1524548250232.jpg",
+        "assets/official/101f0de108-E1524548250231.jpg"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_11969_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=11969"
+      },
+      "description": "",
+      "region": "south"
+    },
+    {
+      "id": "11968",
+      "title": "屏東高樹",
+      "images": [
+        "assets/official/0fd0108ae8-E1524547925424.jpg",
+        "assets/official/50db334199-E1524547925423.jpg",
+        "assets/official/0083128c8b-E1524547925422.jpg",
+        "assets/official/eb151b2e1a-E1524547925421.jpg"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_11968_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=11968"
+      },
+      "description": "",
+      "region": "south"
+    },
+    {
+      "id": "11967",
+      "title": "屏東東港",
+      "images": [
+        "assets/official/c9cfc01dff-E1524547866406.jpg",
+        "assets/official/751ea25275-E1524547866405.jpg",
+        "assets/official/3c9bbc1ea3-E1524547866404.jpg",
+        "assets/official/77978c46c3-E1524547866403.jpg",
+        "assets/official/c9dfc6ad58-E1524547866402.jpg",
+        "assets/official/3ea08842b3-E1524547866391.jpg"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_11967_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=11967"
+      },
+      "description": "",
+      "region": "south"
+    },
+    {
+      "id": "11966",
+      "title": "屏東西勢",
+      "images": [
+        "assets/official/438fd227e6-E1524481397246.JPG",
+        "assets/official/de9b82a35b-E1524481397245.JPG",
+        "assets/official/0f52101da5-E1524481397244.JPG",
+        "assets/official/9e75515a65-E1524481397243.JPG",
+        "assets/official/317c26f9fb-E1524481397242.JPG",
+        "assets/official/b6b3bda8b3-E1524481397241.JPG"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_11966_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=11966"
+      },
+      "description": "",
+      "region": "south"
+    },
+    {
+      "id": "11965",
+      "title": "宜蘭羅東",
+      "images": [
+        "assets/official/09e1e6f1cf-E1524481261886.jpg",
+        "assets/official/b3afba1398-E1524481261885.jpg",
+        "assets/official/f8a064b6a4-E1524481261884.jpg",
+        "assets/official/291f9dd239-E1524481261883.jpg",
+        "assets/official/a7a8e0c32d-E1524481261882.jpg",
+        "assets/official/57177bbfc6-E1524481261881.jpg"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_11965_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=11965"
+      },
+      "description": "",
+      "region": "north"
+    },
+    {
+      "id": "11964",
+      "title": "台南關廟",
+      "images": [
+        "assets/official/5b9964c66d-E1524481123586.JPG",
+        "assets/official/be563cb681-E1524481123585.JPG",
+        "assets/official/e739b8e21e-E1524481123584.JPG",
+        "assets/official/4411754b9c-E1524481123583.JPG",
+        "assets/official/d98941abc4-E1524481123582.JPG",
+        "assets/official/988437532c-E1524481123581.JPG"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_11964_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=11964"
+      },
+      "description": "",
+      "region": "south"
+    },
+    {
+      "id": "11963",
+      "title": "台南玉井",
+      "images": [
+        "assets/official/527bccd99f-E1524480964626.JPG",
+        "assets/official/13324c6fc9-E1524480964625.JPG",
+        "assets/official/0dc285db61-E1524480964624.JPG",
+        "assets/official/b7fd75b16e-E1524480964623.JPG",
+        "assets/official/d1c0856558-E1524480964622.JPG",
+        "assets/official/095c94f8d4-E1524480964621.JPG"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_11963_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=11963"
+      },
+      "description": "",
+      "region": "south"
+    },
+    {
+      "id": "11962",
+      "title": "台南六甲",
+      "images": [
+        "assets/official/0d85f09b1a-E1524480811016.jpg",
+        "assets/official/7019e7b13a-E1524480811015.jpg",
+        "assets/official/33ec874383-E1524480811014.JPG",
+        "assets/official/f20d669738-E1524480811003.JPG",
+        "assets/official/389239def3-E1524480811002.JPG",
+        "assets/official/d59638b14b-E1524480811001.JPG"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_11962_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=11962"
+      },
+      "description": "",
+      "region": "south"
+    },
+    {
+      "id": "11961",
+      "title": "台東長濱",
+      "images": [
+        "assets/official/6f9ea4dd3c-E1524480398296.jpg",
+        "assets/official/3e00df07a6-E1524480398295.jpg",
+        "assets/official/d7910d03a7-E1524480398294.jpg",
+        "assets/official/681729cd21-E1524480398283.jpg",
+        "assets/official/bc85f88245-E1524480398282.jpg",
+        "assets/official/47b907150d-E1524480398281.jpg"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_11961_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=11961"
+      },
+      "description": "",
+      "region": "east"
+    },
+    {
+      "id": "11960",
+      "title": "台中太平",
+      "images": [
+        "assets/official/f289efeddb-E1524479599656.jpg",
+        "assets/official/b8089259e9-E1524479599655.jpg",
+        "assets/official/730c630b7b-E1524479599654.jpg",
+        "assets/official/722a6bfd9e-E1524479599653.jpg",
+        "assets/official/05beccdbaa-E1524479599652.jpg",
+        "assets/official/315e5fbf71-E1524479599631.jpg"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_11960_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=11960"
+      },
+      "description": "",
+      "region": "central"
+    },
+    {
+      "id": "11959",
+      "title": "小琉球民宿",
+      "images": [
+        "assets/official/36006eace6-E1524479424116.jpg",
+        "assets/official/d1e7eeb616-E1524479424115.jpg",
+        "assets/official/a77a583ff4-E1524479424114.jpg",
+        "assets/official/a87e2e0bd6-E1524479424043.jpg",
+        "assets/official/f426506d37-E1524479424042.jpg",
+        "assets/official/174d1e3d23-E1524479424041.jpg"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_11959_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=11959"
+      },
+      "description": "",
+      "region": "islands"
+    },
+    {
+      "id": "11958",
+      "title": "外島澎湖",
+      "images": [
+        "assets/official/f269259d30-E1524556091334.JPG",
+        "assets/official/111d58e44c-E1524556091333.JPG",
+        "assets/official/a738844fd7-E1524556091332.JPG",
+        "assets/official/d7e3dba808-E1524556091331.JPG"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_11958_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=11958"
+      },
+      "description": "",
+      "region": "islands"
+    },
+    {
+      "id": "11957",
+      "title": "福斯汽車合作",
+      "images": [
+        "assets/official/f7f0dbba31-E1524556151193.jpg",
+        "assets/official/3f19c8ead7-E1524556151192.jpg",
+        "assets/official/478e135604-E1524556151191.jpg"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_11957_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=11957"
+      },
+      "description": "",
+      "region": "south"
+    },
+    {
+      "id": "11956",
+      "title": "新竹尖石",
+      "images": [
+        "assets/official/20b186d36e-E1524477108096.jpg",
+        "assets/official/02eb993ee5-E1524477108095.jpg",
+        "assets/official/c8f13445c5-E1524477108084.jpg",
+        "assets/official/566ff7304c-E1524477108083.jpg",
+        "assets/official/b160c25129-E1524477108082.jpg",
+        "assets/official/5ce389891b-E1524477108081.jpg"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_11956_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=11956"
+      },
+      "description": "",
+      "region": "north"
+    },
+    {
+      "id": "11955",
+      "title": "高雄鹽埕",
+      "images": [
+        "assets/official/067f5a2bfc-E1524556257053.jpg",
+        "assets/official/789af005d7-E1524556257052.jpg",
+        "assets/official/ffb3a8348e-E1524556257051.jpg"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_11955_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=11955"
+      },
+      "description": "",
+      "region": "south"
+    },
+    {
+      "id": "11954",
+      "title": "高雄瑞豐夜市",
+      "images": [
+        "assets/official/9978736bbe-E1524474696446.jpg",
+        "assets/official/8a3fa1758f-E1524474696445.jpg",
+        "assets/official/372060df98-E1524474696444.jpg",
+        "assets/official/4c90615422-E1524474696433.jpg",
+        "assets/official/be8c3c0c11-E1524474696432.jpg",
+        "assets/official/e58b914bdb-E1524474696431.jpg"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_11954_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=11954"
+      },
+      "description": "",
+      "region": "south"
+    },
+    {
+      "id": "11950",
+      "title": "高雄龍肚",
+      "images": [
+        "assets/official/c534b21447-E1524218572944.JPG",
+        "assets/official/e8e0f26228-E1524218572943.JPG",
+        "assets/official/92f8c25b68-E1524218572932.JPG",
+        "assets/official/6f4b17121c-E1524218572931.JPG"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_11950_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=11950"
+      },
+      "description": "",
+      "region": "south"
+    },
+    {
+      "id": "11948",
+      "title": "高雄美濃月光隧道",
+      "images": [
+        "assets/official/24f109ce1c-E1524218489805.jpg",
+        "assets/official/37572773a4-E1524218489794.jpg",
+        "assets/official/ef413033bd-E1524218489793.JPG",
+        "assets/official/90d51ccaac-E1524218489792.jpg",
+        "assets/official/ee1a8f2a4c-E1524218489791.jpg"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_11948_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=11948"
+      },
+      "description": "",
+      "region": "south"
+    },
+    {
+      "id": "11947",
+      "title": "屏東萬巒",
+      "images": [
+        "assets/official/314152e1fa-E1524218436326.jpg",
+        "assets/official/f5dcc86664-E1524218436325.jpg",
+        "assets/official/23d0ba8b01-E1524218436324.jpg",
+        "assets/official/b435f34350-E1524218436323.jpg",
+        "assets/official/233e4a6b8c-E1524218436322.jpg",
+        "assets/official/7345d3c0dd-E1524218436311.jpg"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_11947_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=11947"
+      },
+      "description": "",
+      "region": "south"
+    },
+    {
+      "id": "11946",
+      "title": "南投名間-商用空間",
+      "images": [
+        "assets/official/c6f157bad1-E1524218260586.jpg",
+        "assets/official/dd494c6a14-E1524218260585.jpg",
+        "assets/official/e98d873b55-E1524218260584.jpg",
+        "assets/official/981b468787-E1524218260583.jpg",
+        "assets/official/1d4fbd34ec-E1524218260582.jpg",
+        "assets/official/58edbfe732-E1524218259861.jpg"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_11946_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=11946"
+      },
+      "description": "",
+      "region": "central"
+    },
+    {
+      "id": "11945",
+      "title": "南投名間-住宿空間",
+      "images": [
+        "assets/official/766676a5a6-E1524217796966.jpg",
+        "assets/official/8b280fb6f2-E1524217796965.jpg",
+        "assets/official/2c9e84d47a-E1524217796964.jpg",
+        "assets/official/b64f107a13-E1524217796963.jpg",
+        "assets/official/a37e021950-E1524217796962.jpg",
+        "assets/official/f75c6eb939-E1524217796961.jpg"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_11945_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=11945"
+      },
+      "description": "",
+      "region": "central"
+    },
+    {
+      "id": "11944",
+      "title": "金門金城",
+      "images": [
+        "assets/official/cc7f5eb95c-E1524217156363.JPG",
+        "assets/official/a8bb4a0e4d-E1524217156362.JPG",
+        "assets/official/4c697df4a8-E1524217156361.JPG"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_11944_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=11944"
+      },
+      "description": "",
+      "region": "islands"
+    },
+    {
+      "id": "11943",
+      "title": "高雄大鵬灣",
+      "images": [
+        "assets/official/fac3822056-E1524217110045.JPG",
+        "assets/official/a5bb783418-E1524217110044.JPG",
+        "assets/official/c35e60aad1-E1524217110043.JPG",
+        "assets/official/313d45e969-E1524217110032.JPG",
+        "assets/official/29d253628f-E1524217110031.JPG"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_11943_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=11943"
+      },
+      "description": "",
+      "region": "south"
+    },
+    {
+      "id": "11942",
+      "title": "高雄車展行動展示",
+      "images": [
+        "assets/official/d6d27d415f-E1524217059226.JPG",
+        "assets/official/e6a2c78439-E1524217059225.JPG",
+        "assets/official/6594873d01-E1524217059224.JPG",
+        "assets/official/73ff65c3e0-E1524217059223.JPG",
+        "assets/official/d0de487a92-E1524217059222.JPG",
+        "assets/official/d4e662aa7c-E1524217059221.JPG"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_11942_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=11942"
+      },
+      "description": "",
+      "region": "south"
+    },
+    {
+      "id": "11941",
+      "title": "台南六甲",
+      "images": [
+        "assets/official/fd394e4460-E1524216951376.jpg",
+        "assets/official/98f7d92aff-E1524216951365.jpg",
+        "assets/official/b926973360-E1524216951364.jpg",
+        "assets/official/539b2519ed-E1524216951363.jpg",
+        "assets/official/67f924e364-E1524216951362.jpg",
+        "assets/official/d744128dc3-E1524216951361.jpg"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_11941_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=11941"
+      },
+      "description": "",
+      "region": "south"
+    },
+    {
+      "id": "11939",
+      "title": "台南仁德",
+      "images": [
+        "assets/official/0d14f2cd2a-E1524216143652.jpg",
+        "assets/official/e05b7dc5cb-E1524216143641.jpg",
+        "assets/official/2720bc3046-E1524215579824.jpg",
+        "assets/official/76294013fd-E1524215579823.jpg",
+        "assets/official/334077f39f-E1524215579822.jpg",
+        "assets/official/1d7936f172-E1524215579821.jpg"
+      ],
+      "specification": "",
+      "source": {
+        "file": "products/info_id_11939_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=11939"
+      },
+      "description": "",
+      "region": "south"
+    },
+    {
+      "id": "11937",
+      "title": "彰化永靖",
+      "images": [
+        "assets/official/98088febfd-E1524213901946.jpg",
+        "assets/official/7d4408a8a5-E1524213901945.jpg",
+        "assets/official/4fe1320c58-E1524213901944.jpg",
+        "assets/official/d69bf6047f-E1524213901943.jpg",
+        "assets/official/4f319c52cf-E1524213901942.jpg",
+        "assets/official/652a48b4ba-E1524213901941.jpg"
+      ],
+      "specification": "空間運用：單間，5.5坪",
+      "source": {
+        "file": "products/info_id_11937_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=11937"
+      },
+      "description": "",
+      "region": "central"
+    },
+    {
+      "id": "11936",
+      "title": "新竹寶山",
+      "images": [
+        "assets/official/50240b2fc8-E1524478396906.jpg",
+        "assets/official/dcc758174b-E1524478396905.jpg",
+        "assets/official/64efd276b3-E1524478396894.jpg",
+        "assets/official/c3a164e134-E1524478396893.jpg",
+        "assets/official/31032aec8c-E1524478396892.jpg",
+        "assets/official/70d9c381ba-E1524478396891.jpg"
+      ],
+      "specification": "空間運用：兩間合併+露台，16.5坪",
+      "source": {
+        "file": "products/info_id_11936_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=11936"
+      },
+      "description": "",
+      "region": "north"
+    },
+    {
+      "id": "11935",
+      "title": "新竹橫山",
+      "images": [
+        "assets/official/f597dfa64f-E1524478174286.JPG",
+        "assets/official/151235a4e2-E1524478174285.JPG",
+        "assets/official/e31af32397-E1524478174284.jpg",
+        "assets/official/ba2fbc365b-E1524478174283.JPG",
+        "assets/official/510fb192b8-E1524478174282.jpg",
+        "assets/official/65b6334767-E1524478174281.jpg"
+      ],
+      "specification": "空間運用：單間+露台，11坪",
+      "source": {
+        "file": "products/info_id_11935_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=11935"
+      },
+      "description": "",
+      "region": "north"
+    },
+    {
+      "id": "10990",
+      "title": "高雄美濃",
+      "images": [
+        "assets/official/4314520981-E1524552689196.jpg",
+        "assets/official/6603deb99e-E1524552689195.jpg",
+        "assets/official/7fd6427567-E1524552689194.jpg",
+        "assets/official/1d82bb9358-E1524552689193.jpg",
+        "assets/official/04f598c7a6-E1524552689192.jpg",
+        "assets/official/dd72be0f10-E1524552689191.jpg"
+      ],
+      "specification": "空間運用：單間+露台，11坪",
+      "source": {
+        "file": "products/info_id_10990_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=10990"
+      },
+      "description": "",
+      "region": "south"
+    },
+    {
+      "id": "10989",
+      "title": "高雄仁武",
+      "images": [
+        "assets/official/9ea4871cbd-E1524215085892.JPG",
+        "assets/official/ff5b8afb93-E1524215085891.jpg",
+        "assets/official/422f36646f-E1518415748254.jpg",
+        "assets/official/3f571a8fcf-E1518415748253.JPG",
+        "assets/official/8c3f71c0c5-E1518415748252.jpg",
+        "assets/official/71cb8f5792-E1518415748241.jpg"
+      ],
+      "specification": "空間運用：單間，5.5坪 目的：自用 文案：方便移動，不需另做基礎 地點：高雄仁武 造價：65萬起 格局：一房一衛、山型屋頂",
+      "source": {
+        "file": "products/info_id_10989_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=10989"
+      },
+      "description": "",
+      "region": "south"
+    },
+    {
+      "id": "10988",
+      "title": "美濃函園",
+      "images": [
+        "assets/official/06157e136e-E1518415328896.jpg",
+        "assets/official/420df6447f-E1518415328895.jpg",
+        "assets/official/db11ab2ab1-E1518415328894.jpg",
+        "assets/official/87043b80ae-E1518415328873.jpg",
+        "assets/official/e436f3a609-E1518415328872.JPG",
+        "assets/official/e0a81a4414-E1518415328871.jpg"
+      ],
+      "specification": "空間運用：單間，5.5坪 目的：商用 文案：民宿住宿用途 地點：高雄美濃 格局：一房一衛。不含斜屋頂",
+      "source": {
+        "file": "products/info_id_10988_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=10988"
+      },
+      "description": "",
+      "region": "south"
+    },
+    {
+      "id": "10987",
+      "title": "屏東萬巒",
+      "images": [
+        "assets/official/05e9c55763-E1524214996792.jpg",
+        "assets/official/f492e641c8-E1524214996791.jpg",
+        "assets/official/4727ccceae-E1518414778204.jpg",
+        "assets/official/62e5488bbe-E1518414778203.jpg",
+        "assets/official/6960270800-E1518414778202.jpg",
+        "assets/official/4396a559d8-E1518414778201.jpg"
+      ],
+      "specification": "空間運用：單間，5.5坪 目的：商用 文案：假日休憩用 地點：屏東萬巒 格局：一房一衛、山型屋頂、鋼構基礎、南方松露台",
+      "source": {
+        "file": "products/info_id_10987_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=10987"
+      },
+      "description": "",
+      "region": "south"
+    },
+    {
+      "id": "10986",
+      "title": "屏東來義",
+      "images": [
+        "assets/official/5075af1f71-E1518513474331.jpg",
+        "assets/official/56f11a8d50-E1518407288454.jpg",
+        "assets/official/efc44a287d-E1518407288453.jpg",
+        "assets/official/db815c4c20-E1518407288452.jpg"
+      ],
+      "specification": "空間運用：單間，5.5坪 目的：自用 文案：假日休閒用 地點：屏東來義 格局：一廁一廳、屋頂欄杆及樓梯。不含水泥基礎",
+      "source": {
+        "file": "products/info_id_10986_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=10986"
+      },
+      "description": "",
+      "region": "south"
+    }
+  ],
+  "surveys": [
+    {
+      "id": "21772",
+      "title": "場勘-外島(馬金澎綠蘭)",
+      "images": [
+        "assets/official/fe7bdbf1f2-E1606729215631.jpg"
+      ],
+      "specification": "場勘費用NT$6000元",
+      "source": {
+        "file": "products/info_id_21772_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=21772"
+      },
+      "description": ""
+    },
+    {
+      "id": "21771",
+      "title": "場勘-宜花東",
+      "images": [
+        "assets/official/7e5c245387-E1606729247051.jpg"
+      ],
+      "specification": "場勘費用NT$4000元",
+      "source": {
+        "file": "products/info_id_21771_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=21771"
+      },
+      "description": ""
+    },
+    {
+      "id": "21770",
+      "title": "場勘-北北基",
+      "images": [
+        "assets/official/57c5a6fd5c-E1606729262131.jpg"
+      ],
+      "specification": "場勘費用NT$4000元",
+      "source": {
+        "file": "products/info_id_21770_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=21770"
+      },
+      "description": ""
+    },
+    {
+      "id": "21769",
+      "title": "場勘-桃竹苗",
+      "images": [
+        "assets/official/bf4227f42a-E1606729277541.jpg"
+      ],
+      "specification": "場勘費用NT$3500元",
+      "source": {
+        "file": "products/info_id_21769_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=21769"
+      },
+      "description": ""
+    },
+    {
+      "id": "21768",
+      "title": "場勘-雲嘉南",
+      "images": [
+        "assets/official/9ea522519e-E1606729299391.jpg"
+      ],
+      "specification": "場勘費用NT$2500元",
+      "source": {
+        "file": "products/info_id_21768_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=21768"
+      },
+      "description": ""
+    },
+    {
+      "id": "21767",
+      "title": "場勘-中彰投",
+      "images": [
+        "assets/official/5093ae4d46-E1606729315571.jpg"
+      ],
+      "specification": "場勘費用NT$3000元",
+      "source": {
+        "file": "products/info_id_21767_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=21767"
+      },
+      "description": ""
+    },
+    {
+      "id": "21740",
+      "title": "場勘-高高屏",
+      "images": [
+        "assets/official/429df47b9f-E1605779369621.jpg"
+      ],
+      "specification": "場勘費用NT$2000元",
+      "source": {
+        "file": "products/info_id_21740_title_id_.html",
+        "url": "https://www.jenwa.com.tw/products/info.php?id=21740"
+      },
+      "description": ""
+    }
+  ],
+  "models": [
+    {
+      "id": "853",
+      "budget": "100萬以內",
+      "title": "編號#1",
+      "images": [
+        "assets/official/bf70b545e8-C167402903860.jpg"
+      ],
+      "source": {
+        "file": "workshow/info_id_2856_second_id_853.html",
+        "url": "https://www.jenwa.com.tw/workshow/info.php?id=2856&second_id=853"
+      }
+    },
+    {
+      "id": "854",
+      "budget": "100萬以內",
+      "title": "小資級",
+      "images": [
+        "assets/official/fb273f92d8-C167403015472.jpg"
+      ],
+      "source": {
+        "file": "workshow/info_id_2856_second_id_854.html",
+        "url": "https://www.jenwa.com.tw/workshow/info.php?id=2856&second_id=854"
+      }
+    },
+    {
+      "id": "855",
+      "budget": "100萬以內",
+      "title": "編號#2",
+      "images": [
+        "assets/official/4005dfd30c-C167402882741.jpg"
+      ],
+      "source": {
+        "file": "workshow/info_id_2856_second_id_855.html",
+        "url": "https://www.jenwa.com.tw/workshow/info.php?id=2856&second_id=855"
+      }
+    },
+    {
+      "id": "1039",
+      "budget": "100-199萬",
+      "title": "編號#5",
+      "images": [
+        "assets/official/9d06045f14-C167402864817.jpg"
+      ],
+      "source": {
+        "file": "workshow/info_id_2857_second_id_1039.html",
+        "url": "https://www.jenwa.com.tw/workshow/info.php?id=2857&second_id=1039"
+      }
+    },
+    {
+      "id": "1049",
+      "budget": "100-199萬",
+      "title": "編號#6",
+      "images": [
+        "assets/official/087df5ef42-C167402860902.jpg"
+      ],
+      "source": {
+        "file": "workshow/info_id_2857_second_id_1049.html",
+        "url": "https://www.jenwa.com.tw/workshow/info.php?id=2857&second_id=1049"
+      }
+    },
+    {
+      "id": "864",
+      "budget": "100-199萬",
+      "title": "編號#1",
+      "images": [
+        "assets/official/e74a26fb1b-C167402914244.jpg"
+      ],
+      "source": {
+        "file": "workshow/info_id_2857_second_id_864.html",
+        "url": "https://www.jenwa.com.tw/workshow/info.php?id=2857&second_id=864"
+      }
+    },
+    {
+      "id": "865",
+      "budget": "100-199萬",
+      "title": "編號#3",
+      "images": [
+        "assets/official/c042308987-C167402885384.jpg"
+      ],
+      "source": {
+        "file": "workshow/info_id_2857_second_id_865.html",
+        "url": "https://www.jenwa.com.tw/workshow/info.php?id=2857&second_id=865"
+      }
+    },
+    {
+      "id": "866",
+      "budget": "100-199萬",
+      "title": "編號#4",
+      "images": [
+        "assets/official/0bc5f81e22-C167402866973.jpg"
+      ],
+      "source": {
+        "file": "workshow/info_id_2857_second_id_866.html",
+        "url": "https://www.jenwa.com.tw/workshow/info.php?id=2857&second_id=866"
+      }
+    },
+    {
+      "id": "868",
+      "budget": "100-199萬",
+      "title": "編號#2",
+      "images": [
+        "assets/official/a5ac8eea35-C167402888606.jpg"
+      ],
+      "source": {
+        "file": "workshow/info_id_2857_second_id_868.html",
+        "url": "https://www.jenwa.com.tw/workshow/info.php?id=2857&second_id=868"
+      }
+    },
+    {
+      "id": "977",
+      "budget": "100-199萬",
+      "title": "富裕級",
+      "images": [
+        "assets/official/03235f3cc2-C167403016817.jpg"
+      ],
+      "source": {
+        "file": "workshow/info_id_2857_second_id_977.html",
+        "url": "https://www.jenwa.com.tw/workshow/info.php?id=2857&second_id=977"
+      }
+    },
+    {
+      "id": "1103",
+      "budget": "200萬以上",
+      "title": "編號#2",
+      "images": [
+        "assets/official/76b6baa108-C1674031920651.jpg"
+      ],
+      "source": {
+        "file": "workshow/info_id_3370_second_id_1103.html",
+        "url": "https://www.jenwa.com.tw/workshow/info.php?id=3370&second_id=1103"
+      }
+    },
+    {
+      "id": "1104",
+      "budget": "200萬以上",
+      "title": "編號#1",
+      "images": [
+        "assets/official/a225f21885-C167403234519.jpg"
+      ],
+      "source": {
+        "file": "workshow/info_id_3370_second_id_1104.html",
+        "url": "https://www.jenwa.com.tw/workshow/info.php?id=3370&second_id=1104"
+      }
+    },
+    {
+      "id": "1105",
+      "budget": "200萬以上",
+      "title": "土豪級",
+      "images": [
+        "assets/official/beae43b1ce-C167403230422.jpg"
+      ],
+      "source": {
+        "file": "workshow/info_id_3370_second_id_1105.html",
+        "url": "https://www.jenwa.com.tw/workshow/info.php?id=3370&second_id=1105"
+      }
+    }
+  ],
+  "comparisonArticle": {
+    "title": "易立構和中國組合屋區別所在/易立構禁得起17級陣風考驗，中國組合屋遭強風吹毀?",
+    "video": "https://www.youtube.com/watch?v=LfrT94btz-g",
+    "embed": "https://www.youtube.com/embed/LfrT94btz-g?si=AGhdXGbECSYcYAyV",
+    "source": {
+      "file": "paper/promotions_index_id_1986.html",
+      "url": "https://www.jenwa.com.tw/paper/promotions_index.php?id=1986"
+    }
+  },
+  "constructionNote": "工法、結構配置及用料依現場環境、結構安全、材料供應與相關法規，由專業技術團隊評估調整。實際規格、費用及施作範圍以個案確認為準。"
+}

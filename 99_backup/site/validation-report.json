@@ -1,0 +1,19 @@
+{
+  "pages": [
+    "index",
+    "product",
+    "cases",
+    "about",
+    "faq",
+    "contact",
+    "comparison"
+  ],
+  "featuredCases": 5,
+  "localReferences": 468,
+  "assets": 111,
+  "faq": 37,
+  "process": 13,
+  "models": 13,
+  "patents": 3,
+  "remoteImages": 0
+}

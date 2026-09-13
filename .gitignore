@@ -1,0 +1,14 @@
+# .NET build output
+bin/
+obj/
+*.user
+
+# Azure Functions local settings (contains LINE credentials — never commit)
+local.settings.json
+
+# Deployment artifacts
+*.zip
+.azure/
+
+# Node
+node_modules/
